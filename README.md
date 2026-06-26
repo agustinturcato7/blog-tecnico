@@ -80,8 +80,8 @@ Al principio fue incómodo escucharlo, porque sentía que ya estaba haciendo el 
 
 **Información General**
 
-- **URL pública del blog:** _(se completa con la URL de GitHub Pages, ej.: https://TUUSUARIO.github.io/blog-tecnico/)_
-- **Enlace al repositorio:** _(se completa con la URL del repo, ej.: https://github.com/TUUSUARIO/blog-tecnico)_
+-URL pública del blog: https://agustinturcato7.github.io/blog-tecnico
+Enlace al repositorio: https://github.com/agustinturcato7/blog-tecnico
 - **Commits relevantes:** estructura inicial · contexto y problema · acciones y post-mortem · aprendizajes y feedback
 
 **Requisitos**
